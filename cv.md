@@ -37,6 +37,27 @@
 > [CodeAcademy: Learn CSS](https://www.codecademy.com/profiles/anastasiyaMatronkina6263081298)  
 > [RSSchool: JavaScript/Front-end](https://rs.school/js/)
 
+## Skills
+
+### **Programming languages and technologies:**
+> C#, JavaScript, SQL, T-SQL, HTML, XML, XSD, WSDL, CSS.
+> ASP.NET, AJAX, SOAP, HTTP(S), Dojo, JQuery.
+
+### **Programming practices:**
+> Agile (Scrum). Full cycle of software development: from requirement analysis and architecture design to coding, deployment and support.
+
+### **Development Environments and Tools:**
+> MS Visual Studio, Fiddler, WireShark, FireBug, Chrome DevTools, IE DevTools, MS SQL Server Management Studio, MS SQL Profiler, NUnit, Selenium IDE, Episerver, Tortoise SVN, Git Bash, JIRA.
+
+### **Application/Web Servers:**
+> Microsoft IIS
+
+### **RDBMS:**
+> Microsoft SQL Server
+
+### Source Control:
+> Subversion, Git
+
 ## English
 
 > English level is B1. There were no speaking practice from Feb, 2013, only listening activities.

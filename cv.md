@@ -73,3 +73,8 @@ May,2009  -  Dec,2012 | Senior Software Engineer, Lead Software Engineer | Thoms
 ## English
 
 > English level is B1. There were no speaking practice from Feb, 2013, only listening activities.
+
+## Last But Not Least
+
+> "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” ― Antoine de Saint-Exupéry
+

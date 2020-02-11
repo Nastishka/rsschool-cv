@@ -58,6 +58,18 @@
 ### Source Control:
 > Subversion, Git
 
+## Work Experience
+
+**EPAM Systems (Jun, 2007 - Feb, 2014)**
+
+Date | Position | Customer | Project Description
+------------ | ------------- | ------------- | -------------
+Nov,2013  -  Feb,2014 | Lead Software Engineer | Thomson Reuters | *Thomson Reuters Eikon* . ASP.NET based web application for analyzing financial markets. Research Views, front-end team.
+Jul,2013  -  Oct,2013 | Lead Software Engineer | Reebok | *BK-PEX. POC*. A stand-alone component that presents social feeds that are pulled in from Facebook, Instagram, Twitter and vKontakte, based on #tags associated with existing Reebok events.
+Feb,2013  -  Jun,2013 | Lead Software Engineer | EPAM Systems | *PM-SIIP*. Database oriented web-application for nominating any employee for some outstanding deeds in delivering, working with customer, knowledge sharing and expressing gratitude to that person with a potential bonus coming after this.
+May,2009  -  Dec,2012 | Senior Software Engineer, Lead Software Engineer | Thomson Reuters | *Thomson Reuters Eikon*. ASP.NET based web application for analyzing financial markets. Research Views, front-end team.
+ Aug,2007  -  Apr,2009 | Software Engineer | Thomson Reuters | *Reuters Knowledge* . ASP.NET based web application providing financial and news data. Front-end team.
+
 ## English
 
 > English level is B1. There were no speaking practice from Feb, 2013, only listening activities.

@@ -1,2 +1,1 @@
-# rsschool-cv
-RSSchool Stage1: "Markdown &amp; Git"
+https://nastishka.github.io/rsschool-cv/cv

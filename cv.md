@@ -11,6 +11,16 @@
 > `e-mail` - [anastasiya.matronkina@gmail.com](mailto:anastasiya.matronkina@gmail.com)  
 > `gitHub` - [@Nastishka](https://github.com/Nastishka)
 
+## Professional Summary
+
+> Self-motivated, responsible, customer-oriented professional with more than 6 years of production experience in front-end development of web applications (server and client sides). Core skills is Javascript, HTML, CSS, ASP.NET
+
+> Involved in all phases of Project Life Cycle - Analysis, Design, Sizing, Development, Unit Testing, Bug Fixing, creating support documentation
+
+> Experience in participating in meetings and email-correspondence with customers, back-end development teams, QAs
+
+> Client Projects include: Thomson Reuters (Financial Information), Reebok (Social Feeds)
+
 ## Education
 
 **2001-2003**

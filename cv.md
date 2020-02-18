@@ -13,13 +13,13 @@
 
 ## Professional Summary
 
-> Self-motivated, responsible, customer-oriented professional with more than 6 years of production experience in front-end development of web applications (server and client sides). Core skills is Javascript, HTML, CSS, ASP.NET
+> Self-motivated, responsible, customer-oriented professional with more than 6 years of production experience in front-end development of web applications (server and client sides). Core skills are Javascript, HTML, CSS, ASP.NET
 
-> Involved in all phases of Project Life Cycle - Analysis, Design, Sizing, Development, Unit Testing, Bug Fixing, creating support documentation
+> Involved in all phases of Project Life Cycle - Analysis, Design, Sizing, Development, Unit Testing, Bug Fixing, Creating Support Documentation
 
 > Experience in participating in meetings and email-correspondence with customers, back-end development teams, QAs
 
-> Client Projects include: Thomson Reuters (Financial Information), Reebok (Social Feeds)
+> Client projects include: Thomson Reuters (Financial Information), Reebok (Social Feeds)
 
 ## Education
 
@@ -74,11 +74,11 @@
 
 Date | Position | Customer | Project Description
 ------------ | ------------- | ------------- | -------------
-Nov,2013  -  Feb,2014 | Lead Software Engineer | Thomson Reuters | *Thomson Reuters Eikon* . ASP.NET based application for analyzing financial markets. Research Views, front-end team.
+Nov,2013  -  Feb,2014 | Lead Software Engineer | Thomson Reuters | *Thomson Reuters Eikon* . ASP.NET based web application for analyzing financial markets. Research Views, front-end team.
 Jul,2013  -  Oct,2013 | Lead Software Engineer | Reebok | *BK-PEX. POC*. A stand-alone component that presents social feeds that are pulled in from Facebook, Instagram, Twitter and vKontakte, based on #tags associated with existing Reebok events.
-Feb,2013  -  Jun,2013 | Lead Software Engineer | EPAM Systems | *PM-SIIP*. Database oriented web-application for nominating any person from the project for some outstanding deeds in delivering, working with customer, knowledge sharing and expressing gratitude to that person with a potential bonus coming after this.
-May,2009  -  Dec,2012 | Senior Software Engineer, Lead Software Engineer | Thomson Reuters | *Thomson Reuters Eikon*. ASP.NET based application for analyzing financial markets. Research Views, front-end team.
- Aug,2007  -  Apr,2009 | Software Engineer | Thomson Reuters | *Reuters Knowledge* . ASP.NET based web site providing financial and news data. Front-end team.
+Feb,2013  -  Jun,2013 | Lead Software Engineer | EPAM Systems | *PM-SIIP*. Database oriented web-application for nominating any employee for some outstanding deeds in delivering, working with customer, knowledge sharing and expressing gratitude to that person with a potential bonus coming after this.
+May,2009  -  Dec,2012 | Senior Software Engineer, Lead Software Engineer | Thomson Reuters | *Thomson Reuters Eikon*. ASP.NET based web application for analyzing financial markets. Research Views, front-end team.
+ Aug,2007  -  Apr,2009 | Software Engineer | Thomson Reuters | *Reuters Knowledge* . ASP.NET based web application providing financial and news data. Front-end team.
 
 ## English
 
